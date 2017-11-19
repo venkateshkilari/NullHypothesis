@@ -10,6 +10,7 @@ namespace VisualStudioAPI
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
